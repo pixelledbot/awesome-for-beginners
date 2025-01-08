@@ -222,6 +222,11 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Julia](https://github.com/JuliaLang/julia) _(label: good first issue)_ <br> Julia Projects for Beginners — Easy Ideas to Get Started Coding in Julia
 - [Julia Language: Good first issue](https://github.com/JuliaLang/julia) _(label: good first issue)_ <br> "Move like Python, Run like C" - A fresh approach to technical computing!
 - [Julia Language: Help wanted](https://github.com/JuliaLang/julia) _(label: help-wanted)_ <br> "Move like Python, Run like C" - A fresh approach to technical computing!
+- [Flux.jl](https://github.com/FluxML/Flux.jl) _(label: good first issue)_ <br>
+  A popular machine learning library for Julia that focuses on a clean, efficient, and easily customizable approach to building neural networks.
+- [Pluto.jl](https://github.com/fonsp/Pluto.jl) _(label: good first issue)_ <br>
+  A lightweight notebook environment for Julia, designed with reactive concepts in mind and emphasizing reproducibility for scientific and educational work.
+
 
 ## Kotlin
 
